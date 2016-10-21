@@ -1,0 +1,17 @@
+PODS:
+  - HexColors (3.0.0)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+
+DEPENDENCIES:
+  - HexColors (~> 3.0.0)
+  - SDWebImage (~> 3.7.3)
+
+SPEC CHECKSUMS:
+  HexColors: 8b83e3fe90c0d466dae7b98c9d22da95799f99cb
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+PODFILE CHECKSUM: 1cedd78ba54b4f67874030979eccdcb5c2bfff5a
+
+COCOAPODS: 1.0.1
